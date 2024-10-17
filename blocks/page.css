@@ -4,11 +4,11 @@
     width: 1280px;
     margin: auto;
     text-rendering: optimizeLegibility;
-    font-family: "inter";
+    font-family: "inter", sans-serif;
 }
 
 @media screen and (max-width: 768px) {
-    .page{
+    .page {
         width: 768px;
         height: 1742px;
 
@@ -16,9 +16,8 @@
 }
 
 @media screen and (max-width: 320px) {
-    .page{
+    .page {
         width: 320px;
         height: 1705px;
-    
     }
 }

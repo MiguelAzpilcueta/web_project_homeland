@@ -5,9 +5,8 @@
     padding: 24px;
 }
 
-@media screen and (max-width: 768px){
-    
-    .footer{
+@media screen and (max-width: 768px) {
+    .footer {
         width: 194px;
         height: 16px;
         margin: 0 283px 24px;
@@ -15,9 +14,8 @@
     }
 }
 
-@media screen and (max-width: 768px){
-
-    .footer{
+@media screen and (max-width: 768px) {
+    .footer {
         width: 194px;
         height: 14px;
         margin: 0 63px 24px;
